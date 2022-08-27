@@ -2,7 +2,7 @@
 .ipynb_checkpoints
 
 # datasets
-*.csv
-*.zip
+*.csv # all csv files
+*.zip # all zip files
 
 # folders
