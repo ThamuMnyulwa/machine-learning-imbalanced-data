@@ -6,3 +6,8 @@
 *.zip # all zip files
 
 # folders
+.venv # all virtualenv folders
+.cache # all cache folders
+*.egg-info # all egg-info folders
+
+# misc
